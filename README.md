@@ -3,6 +3,13 @@ By Zhuo Zheng, Yanfei Zhong, Ailong Ma and Liangpei Zhang
 
 This is an official implementation of FreeNet in our paper ["FPGA: Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification"]().
 
+## Installation
+
+### 1. Install SimpleCV
+
+```bash
+pip install --upgrade git+https://github.com/Z-Zheng/SimpleCV.git
+```
 
 ## Prepare datasets
 
