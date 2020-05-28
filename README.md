@@ -7,7 +7,7 @@ By [Zhuo Zheng](http://zhuozheng.top/), [Yanfei Zhong](http://rsidea.whu.edu.cn/
 
 This is an official implementation of FreeNet in our TGRS 2020 paper ["FPGA: Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification"](https://ieeexplore.ieee.org/document/9007624).
 
-We hope the FreeNet can become a stronger and cleaner baseline for hyperspectral image classification research in the future.
+We hope the FPGA framework can become a stronger and cleaner baseline for hyperspectral image classification research in the future.
 
 ## News
 1. 2020/05/28, We release the code of FreeNet and FPGA framework.
