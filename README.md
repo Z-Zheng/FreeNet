@@ -1,7 +1,12 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Travis-CI](https://travis-ci.org/LiyuanLucasLiu/RAdam.svg?branch=master)](https://travis-ci.org/LiyuanLucasLiu/RAdam)
+
+
+
 <h1 align="center">FPGA & FreeNet</h1>
 <h5 align="center">Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification</h5>
 
-By [Zhuo Zheng](http://zhuozheng.top/), [Yanfei Zhong](http://rsidea.whu.edu.cn/), Ailong Ma and [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
+<h5 style="text-align:right">By [Zhuo Zheng](http://zhuozheng.top/), [Yanfei Zhong](http://rsidea.whu.edu.cn/), Ailong Ma and [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)</h5>
 
 <div align="center">
   <img src="https://github.com/Z-Zheng/images_repo/raw/master/fpga.png"><br><br>
