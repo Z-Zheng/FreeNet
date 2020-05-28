@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Travis-CI](https://travis-ci.org/LiyuanLucasLiu/RAdam.svg?branch=master)](https://travis-ci.org/LiyuanLucasLiu/RAdam)
 
 
