@@ -6,7 +6,7 @@
 <h1 align="center">FPGA & FreeNet</h1>
 <h5 align="center">Fast Patch-Free Global Learning Framework for Fully End-to-End Hyperspectral Image Classification</h5>
 
-<h5 align="right"><a href="http://zhuozheng.top/">Zhuo Zheng</a>, <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a>, Ailong Ma and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">Liangpei Zhang</a></h5>
+<h5 align="right">by <a href="http://zhuozheng.top/">Zhuo Zheng</a>, <a href="http://rsidea.whu.edu.cn/">Yanfei Zhong</a>, Ailong Ma and <a href="http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html">Liangpei Zhang</a></h5>
 
 <div align="center">
   <img src="https://github.com/Z-Zheng/images_repo/raw/master/fpga.png"><br><br>
