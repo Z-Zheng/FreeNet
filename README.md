@@ -84,3 +84,8 @@ bash scripts/freenet_1_0_salinas.sh
 ```bash
 bash scripts/freenet_1_0_grss.sh
 ```
+
+### License
+This source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
+
+For commercial use, please contact Prof. Zhong (zhongyanfei@whu.edu.cn).
