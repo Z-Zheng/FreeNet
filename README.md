@@ -22,7 +22,7 @@ We hope the FPGA framework can become a stronger and cleaner baseline for hypers
 
 ## Features
 1. Patch-free training and inference
-2. Fully End-to-End (w/o preprocess technologies, such as dimension reduction.)
+2. Fully end-to-end (w/o preprocess technologies, such as dimension reduction)
 
 
 ## Citation
