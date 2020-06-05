@@ -1,7 +1,7 @@
 from simplecv.data import preprocess
 import numpy as np
 from data.base import FullImageDataset
-from skimage.external import tifffile
+import tifffile
 from data.base import minibatch_sample
 from simplecv.data.preprocess import divisible_pad
 
