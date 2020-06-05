@@ -4,6 +4,7 @@ from simplecv.util.logger import eval_progress, speed
 import time
 from module import freenet
 from simplecv.util import metric
+from data import dataloader
 
 
 def fcn_evaluate_fn(self, test_dataloader, config):
