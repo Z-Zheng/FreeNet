@@ -1,8 +1,8 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fpga-fast-patch-free-global-learning/hyperspectral-image-classification-on-casi)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-casi?p=fpga-fast-patch-free-global-learning)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fpga-fast-patch-free-global-learning-1/hyperspectral-image-classification-on-casi)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-casi?p=fpga-fast-patch-free-global-learning-1)
 	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fpga-fast-patch-free-global-learning/hyperspectral-image-classification-on-salinas-1)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-salinas-1?p=fpga-fast-patch-free-global-learning)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fpga-fast-patch-free-global-learning-1/hyperspectral-image-classification-on-pavia)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-pavia?p=fpga-fast-patch-free-global-learning-1)
 	
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fpga-fast-patch-free-global-learning/hyperspectral-image-classification-on-pavia)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-pavia?p=fpga-fast-patch-free-global-learning)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fpga-fast-patch-free-global-learning-1/hyperspectral-image-classification-on-salinas-1)](https://paperswithcode.com/sota/hyperspectral-image-classification-on-salinas-1?p=fpga-fast-patch-free-global-learning-1)
 
 [![License: GPL v3](https://img.shields.io/github/license/Z-Zheng/FreeNet?style=plastic)](https://www.gnu.org/licenses/gpl-3.0)
 
