@@ -95,8 +95,3 @@ This source code is released under [GPLv3](http://www.gnu.org/licenses/) license
 
 For commercial use, please contact Prof. Zhong (zhongyanfei@whu.edu.cn).
 
-## Projects using FPGA/FreeNet
-
-- TCYB2021: [A Spectral-Spatial-Dependent Global Learning Framework for Insufficient and Imbalanced Hyperspectral Image Classification](https://github.com/dengweihuan/SSDGL)
-
-Welcome to pull request if you use this repo as your codebase.
