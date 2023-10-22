@@ -92,7 +92,7 @@ class FreeNet(CVModule):
         out_feat_list = [self.fuse_3x3convs[0](inner_feat_list[0])]
         for i in range(len(inner_feat_list) - 1):
             inner = self.top_down(out_feat_list[i], inner_feat_list[i + 1])
-            out = self.fuse_3x3convs[i](inner)
+            out = self.fuse_3x3convs[i + 1](inner)
             out_feat_list.append(out)
 
         final_feat = out_feat_list[-1]
